@@ -1,0 +1,2 @@
+cette application permettra a l'utilisateur d'ajouter de modifier et de supprimer des tache dans l'application
+cette application sera exclusivement faite en javaScript. 
